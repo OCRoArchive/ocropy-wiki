@@ -17,6 +17,8 @@ Note that this command already assume that the (binarized) image files as well a
 > firefox temp-correction.html &
 ```
 
+![correction](https://cloud.githubusercontent.com/assets/5199995/11749876/88511cac-a030-11e5-9f41-3193c00e9de1.jpg)
+
 You see the images of all the text lines and below each line there is the recognized text. This input field with the recognized text can be corrected manually to generate the ground truth. Your result can be saved as `html` page again.
 
 ## Extract ground truth
