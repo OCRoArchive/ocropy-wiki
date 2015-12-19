@@ -28,3 +28,31 @@ Last step is to extract the ground truth, i.e. the correct transcription for eac
 > ocropus-gtedit extract temp-correction.html
 ```
 which will generate all the `.gt.txt`-files.
+
+
+## All subcommands of `gtedit`
+
+Two of the subcommands of `ocropus-gtedit` are described in the context above. There some more subcommands which can be handy when working with the ground truth. The complete list is:
+ * **html**: This generates a html page containing the images
+as well as the recognized text, which is useful for manual correction.
+Example call: `ocropus-gtedit html temp/????/??????.bin.png -o temp-correction.html`
+ * **extract**: This extracts the text out of the html page after the correction
+Example call: `ocropus-gtedit extract temp-correction.html`
+ * **text**: This creates one text file containing all the information of the single text files which are inputed.
+Example call: `ocropus-gtedit text -o gen-text.txt temp/????/??????.txt`
+ * **org**: This is the same as text but the file structure is different (org-style).
+Example call: `ocropus-gtedit org -o org.txt temp/????/??????.txt`
+ * **write**: This writes the text of the individual lines into individual files
+in the book directory from the text file containing all text (and the format has to
+be as the output of text or org would give it).
+Example call: `ocropus-gtedit write -x .test.txt gen-text.txt temp`
+
+Each subcommand has also a help option `-h` where you also see the other possible parameters, e.g. `ocropus-gtedit write -h`.
+
+The structure of the text file or org file looks like the following:
+
+![text](https://cloud.githubusercontent.com/assets/5199995/11909813/0ae0c756-a5ec-11e5-9ef5-09554897fabe.jpg)
+![org](https://cloud.githubusercontent.com/assets/5199995/11909777/9fe9edba-a5eb-11e5-8081-da7958ef2368.jpg)
+
+
+
