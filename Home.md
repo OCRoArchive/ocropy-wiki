@@ -23,4 +23,4 @@ There are also some articles on ocropy on the web:
 
 ## Get in touch
 
-You can ask questions about ocropy by opening [issues](/tmbdev/ocropy/issues) or on the [mailing list](https://groups.google.com/forum/#!forum/ocropus).
+You can ask questions about ocropy by opening [issues](/tmbdev/ocropy/issues), in the [ocropy gitter chat](https://gitter.im/tmbdev/ocropy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) on the [mailing list](https://groups.google.com/forum/#!forum/ocropus).
