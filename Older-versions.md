@@ -7,6 +7,8 @@ See also [https://github.com/tmbdev/ocropy/releases](https://github.com/tmbdev/o
 * [classic-ocropy-0.1](https://github.com/tmbdev/ocropy/releases/tag/v0.1) 2013-09-05
 * [v0.5?](https://github.com/tmbdev/ocropy/commit/92db6f51bbe64cc8e6ade21e4cd23e0fc15f0386) 2012-03-06
 
+Tags for older versions can also be found in the [`.hgtags`](https://github.com/sbuss/ocropus/blob/master/.hgtags) file of the original Mercurial repository.
+
 [@amitdo](/amitdo) in [Issue 61](https://github.com/tmbdev/ocropy/issues/61#issuecomment-153301794):
 
 > ocropus 0.7
