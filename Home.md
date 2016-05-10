@@ -7,12 +7,12 @@ There are up-to-date and hands-on articles in this very wiki:
 * [Compute errors and confusions](https://github.com/tmbdev/ocropy/wiki/Compute-errors-and-confusions)
 * [Working with Ground truth](https://github.com/tmbdev/ocropy/wiki/Working-with-Ground-Truth)
 
-## iPython Notebooks
+## IPython Notebooks
 
-The project repository [contains some iPython notebooks](https://github.com/tmbdev/ocropy/search?l=jupyter-notebook&q=&type=Code&utf8=%E2%9C%93). Note that most of them are outdated (in the folder `./OLD`).
+The project repository [contains some IPython notebooks](https://github.com/tmbdev/ocropy/search?l=jupyter-notebook&q=&type=Code&utf8=%E2%9C%93). Note that most of them are outdated (in the folder `./OLD`).
 
 * [rnnlib vs ocropy](https://github.com/tmbdev/ocropy/blob/master/examples/rnnlib-vs-ocropy.ipynb)
-* [iPython notebook](https://github.com/tmbdev/ocropy/blob/master/OLD/ocropus-steps.ipynb) on using ocropy, partly outdated but still useful.
+* [IPython notebook](https://github.com/tmbdev/ocropy/blob/master/OLD/ocropus-steps.ipynb) on using ocropy, partly outdated but still useful.
 
 ## On the Web
 
