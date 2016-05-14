@@ -3,6 +3,7 @@ This is a list of trained models for recognition with ocropy.
 ## Latin Scripts
  * English Default: http://www.tmbdev.net/en-default.pyrnn.gz (80 MB)
  * Fraktur: http://tmbdev.net/ocropy/fraktur.pyrnn.gz (42 MB)
+ * various fonts: https://github.com/jze/ocropus-models
 
 ## Greek Script
  * ??? https://github.com/brobertson/ciaconna/tree/master/Classifiers
