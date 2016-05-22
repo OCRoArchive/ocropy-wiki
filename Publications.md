@@ -1,1 +1,2 @@
-* [High Performance OCR for Printed English and Fraktur using LSTM Networks](http://staffhome.ecm.uwa.edu.au/~00082689/papers/Breuel-LSTM-OCR-ICDAR13.pdf) (2013)
+* [High Performance OCR for Printed English and Fraktur using LSTM Networks](http://staffhome.ecm.uwa.edu.au/~00082689/papers/Breuel-LSTM-OCR-ICDAR13.pdf) (2013)  
+Thomas M. Breuel, Adnan Ul-Hasan, Mayce Al Azawi. Faisal Shafait
