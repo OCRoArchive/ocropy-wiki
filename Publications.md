@@ -12,3 +12,11 @@ Thomas M. Breuel, Adnan Ul-Hasan, Mayce Al Azawi. Faisal Shafait
 Adnan Ul-Hasan, Thomas M. Breuel
 * [Offline Printed Urdu Nastaleeq Script Recognition with Bidirectional LSTM Networks](http://staffhome.ecm.uwa.edu.au/~00082689/papers/Adnan-Urdu-OCR-ICDAR13.pdf) (2013)  
 Adnan Ul-Hasan, Saad Bin Ahmed, Sheikh Faisal Rashid, Faisal Shafait, Thomas M. Breuel
+
+###Version 0.6
+
+This old version used a different OCR engine than the current version.
+
+* [Local Logistic Classifiers for Large Scale Learning](http://biglearn.org/2012/files/papers/biglearning2012_submission_10.pdf) (2012)  
+Mohammad Reza Yousefi, Thomas M. Breuel
+ 
