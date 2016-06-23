@@ -1,3 +1,5 @@
+* [Generic Text Recognition using Long Short-Term Memory Networks](https://kluedo.ub.uni-kl.de/frontdoor/index/index/docId/4353) (2016)  
+Adnan Ul-Hasan – Ph.D Thesis
 * [Benchmarking of LSTM Networks](http://arxiv.org/abs/1508.02774) (2015)  
 Thomas M. Breuel
 * [A Segmentation-Free Approach for Printed Devanagari Script Recognition
