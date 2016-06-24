@@ -1,3 +1,5 @@
+* [Automatic quality evaluation and (semi-) automatic improvement of mixed models for OCR on historical documents](http://arxiv.org/abs/1606.05157) (2016)  
+Uwe Springmann, Florian Fink, Klaus U. Schulz
 * [Generic Text Recognition using Long Short-Term Memory Networks](https://kluedo.ub.uni-kl.de/frontdoor/index/index/docId/4353) (2016)  
 Adnan Ul-Hasan – Ph.D Thesis
 * [Benchmarking of LSTM Networks](http://arxiv.org/abs/1508.02774) (2015)  
