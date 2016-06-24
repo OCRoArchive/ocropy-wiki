@@ -2,6 +2,8 @@
 Adnan Ul-Hasan – Ph.D Thesis
 * [Benchmarking of LSTM Networks](http://arxiv.org/abs/1508.02774) (2015)  
 Thomas M. Breuel
+* [Recognition of Historical Greek Polytonic Scripts Using LSTM](http://users.iit.demokritos.gr/~bgat/OldDocPro/05_paper_305.pdf) (2015)  
+Fotini Simistira, Adnan Ul-Hassan, Vassilis Papavassiliou, Basilis Gatos, Vassilis Katsouros, Marcus Liwicki
 * [A Segmentation-Free Approach for Printed Devanagari Script Recognition
 ](https://www.researchgate.net/publication/280777081_A_Segmentation-Free_Approach_for_Printed_Devanagari_Script_Recognition) (2015)  
 Tushar Karayil, Adnan Ul-Hasan, Thomas M. Breuel
