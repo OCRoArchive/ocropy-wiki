@@ -5,8 +5,8 @@ See also [https://github.com/tmbdev/ocropy/releases](https://github.com/tmbdev/o
 * [OCRopy v1.0](https://github.com/tmbdev/ocropy/releases/tag/v1.0) released 2014-11-02
 * [classic-ocropy-0.1.1](https://github.com/tmbdev/ocropy/releases/tag/v0.1.1) released 2014-11-01
 * [classic-ocropy-0.1](https://github.com/tmbdev/ocropy/releases/tag/v0.1) 2013-09-05
-* [v0.6](https://github.com/tmbdev/ocropy/tree/820f513f8b987a5dee41d41eb6d5c7deddfe5e7a)
-* [v0.5?](https://github.com/tmbdev/ocropy/commit/92db6f51bbe64cc8e6ade21e4cd23e0fc15f0386) 2012-03-06
+* [v0.6](https://github.com/tmbdev/ocropy/tree/820f513f8b987a) 2012-08-23
+* [v0.5?](https://github.com/tmbdev/ocropy/commit/92db6f51bbe64c) 2012-03-06
 
 Tags for older versions can also be found in the [`.hgtags`](https://github.com/sbuss/ocropus/blob/master/.hgtags) file of the original Mercurial repository.
 
