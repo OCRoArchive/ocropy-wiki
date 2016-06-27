@@ -6,8 +6,8 @@ This is a list of trained models for recognition with ocropy.
  * various fonts: https://github.com/jze/ocropus-models
  * (Old) French: https://github.com/zuphilip/ocropy-french-models (26 MB)
 
-## Greek Script
- * ??? https://github.com/brobertson/ciaconna/tree/master/Classifiers
+## Polytonic Greek Script
+ * https://github.com/brobertson/ciaconna/tree/master/Classifiers
 
 ## Asian Scripts
  * Japanese by @isaomatsunami: https://github.com/isaomatsunami/clstm-Japanese (56 MB)
