@@ -2,6 +2,8 @@
 Uwe Springmann, Florian Fink, Klaus U. Schulz
 * [Generic Text Recognition using Long Short-Term Memory Networks](https://kluedo.ub.uni-kl.de/frontdoor/index/index/docId/4353) (2016)  
 Adnan Ul-Hasan – Ph.D Thesis
+* [OCRoRACT: A Sequence Learning OCR System Trained on Isolated Characters](https://www.researchgate.net/publication/294575734_OCRoRACT_A_Sequence_Learning_OCR_System_Trained_on_Isolated_Characters) (2016)  
+Andreas Dengel, Adnan Ul-Hasan, Syed Saqib Bukhari
 * [Benchmarking of LSTM Networks](http://arxiv.org/abs/1508.02774) (2015)  
 Thomas M. Breuel
 * [Recognition of Historical Greek Polytonic Scripts Using LSTM](http://users.iit.demokritos.gr/~bgat/OldDocPro/05_paper_305.pdf) (2015)  
