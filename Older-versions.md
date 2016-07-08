@@ -11,25 +11,3 @@ See also [https://github.com/tmbdev/ocropy/releases](https://github.com/tmbdev/o
 * [v0.4](https://github.com/jkrall/ocropus) 2010-03-27
 
 Tags for older versions can also be found in the [`.hgtags`](https://github.com/sbuss/ocropus/blob/master/.hgtags) file of the original Mercurial repository.
-
-[@amitdo](/amitdo) in [Issue 61](https://github.com/tmbdev/ocropy/issues/61#issuecomment-153301794):
-
-> ocropus 0.7
-> https://github.com/tmbdev/ocropy/tree/v0.1
-
-> ocropus 0.4.4
-> http://ocroold.ocropus.googlecode.com/hg/
-
-> page segmentation code:
-> http://ocrorast.ocropus.googlecode.com/hg/
-
-> line segmentation code:
-> http://ocrolseg.ocropus.googlecode.com/hg/
-
-> language model code:
-> http://ocrofst.ocropus.googlecode.com/hg/
-
-> Releases dates:
-> * 0.5 03/2012
-> * 0.5.x 05-07/2012
-> * 0.6 08/2012
