@@ -12,7 +12,8 @@ See also [https://github.com/tmbdev/ocropy/releases](https://github.com/tmbdev/o
 ### ocropy repository
 * [v0.6](https://github.com/tmbdev/ocropy/tree/820f513f8b987a) 2012-08-23
 * [v0.5.4](https://github.com/tmbdev/ocropy/tree/092c5d081163) 2012-07-15
-* [v0.5](https://github.com/tmbdev/ocropy/tree/92db6f51bbe64c) 2012-03-06
+* [v0.5](https://github.com/tmbdev/ocropy/tree/92db6f51bbe6) 2012-03-06
+* [first commit in the ocropy repo](https://github.com/tmbdev/ocropy/commit/ec43558af20a) 2010-03-03
 
 ### ocropus repository
 * [v0.4.4](https://github.com/michaelyin/ocropus-git/tree/ba6930627f3f) 2010-03-24
