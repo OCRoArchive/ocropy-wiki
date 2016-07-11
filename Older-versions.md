@@ -1,6 +1,6 @@
 # Older versions of ocropus
 
-## LSTM-Based versions
+## LSTM-based versions
 ### LSTM-based OCR engine only
 * [OCRopy v1.0](https://github.com/tmbdev/ocropy/releases/tag/v1.0) released 2014-11-02
 
