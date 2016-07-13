@@ -18,8 +18,6 @@ See also [https://github.com/tmbdev/ocropy/releases](https://github.com/tmbdev/o
 * [v0.5](https://github.com/tmbdev/ocropy/tree/92db6f51bbe6) 2012-03-06
 * [first commit in the ocropy repo](https://github.com/tmbdev/ocropy/commit/ec43558af20a) 2010-03-03
 
-Tags for older versions can also be found in the [`.hgtags`](https://github.com/sbuss/ocropus/blob/master/.hgtags) file of the original Mercurial repository.
-
 ### ocropus repository
 * [v0.4.4](https://github.com/michaelyin/ocropus-git/tree/ba6930627f3f) 2010-03-24
 * [v0.4](https://github.com/michaelyin/ocropus-git/tree/4ab75dc0dc9b) 2009-05-31
