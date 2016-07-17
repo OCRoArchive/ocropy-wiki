@@ -21,3 +21,5 @@ See also [https://github.com/tmbdev/ocropy/releases](https://github.com/tmbdev/o
 ### ocropus repository
 * [v0.4.4](https://github.com/michaelyin/ocropus-git/tree/ba6930627f3f) 2010-03-24
 * [v0.4](https://github.com/michaelyin/ocropus-git/tree/4ab75dc0dc9b) 2009-05-31
+
+[Announcing the OCRopus Open Source OCR System](https://developers.googleblog.com/2007/04/announcing-ocropus-open-source-ocr.html) April 9, 2007
