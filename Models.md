@@ -5,6 +5,7 @@ This is a list of trained models for recognition with ocropy.
  * Fraktur: http://tmbdev.net/ocropy/fraktur.pyrnn.gz (42 MB)
  * various fonts: https://github.com/jze/ocropus-models
  * (Old) French: https://github.com/zuphilip/ocropy-french-models (26 MB)
+ * [Older models by @tmbdev: http://www.tmbdev.net/ocropy/OLD/]
 
 ## Polytonic Greek Script
  * https://github.com/brobertson/ciaconna/tree/master/Classifiers
