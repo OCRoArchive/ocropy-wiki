@@ -25,6 +25,5 @@ Adnan Ul-Hasan, Saad Bin Ahmed, Sheikh Faisal Rashid, Faisal Shafait, Thomas M. 
 
 This old version used a different OCR engine than the current LSTM-based version.
 
-* [Local Logistic Classifiers for Large Scale Learning](http://biglearn.org/2012/files/papers/biglearning2012_submission_10.pdf) (2012)  
+* [Local Logistic Classifiers for Large Scale Learning](http://www.academia.edu/2959462/Local_Logistic_Classifiers_for_Large_Scale_Learning) (2012)  
 Mohammad Reza Yousefi, Thomas M. Breuel
- 
