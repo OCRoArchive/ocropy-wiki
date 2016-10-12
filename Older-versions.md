@@ -21,5 +21,8 @@ See also [https://github.com/tmbdev/ocropy/releases](https://github.com/tmbdev/o
 ### ocropus repository
 * [v0.4.4](https://github.com/michaelyin/ocropus-git/tree/ba6930627f3f) 2010-03-24
 * [v0.4](https://github.com/michaelyin/ocropus-git/tree/4ab75dc0dc9b) 2009-05-31
-
-[Announcing the OCRopus Open Source OCR System](https://developers.googleblog.com/2007/04/announcing-ocropus-open-source-ocr.html) April 9, 2007
+* [v0.3](https://github.com/michaelyin/ocropus-git/tree/d39c2e3) 2008-10-15
+* _v0.2_ 2008-05-30 "Alpha 2"
+* _v0.1.1_ 2007-12-14: "This is the first maintenance release of OCRopus Alpha, which introduces closer cooperation with Tesseract to improve speed and accuracy. It also fixes several portability issues."
+* _v0.1.0_ 2007-10-22: "The first packaged release aims to stabilize the interfaces of the involved components and provides a first version of the scripting functionality for OCRopus based on Lua. It also includes some more preprocessing functionality for document images and a MLP based character classifier."
+* [Announcing the OCRopus Open Source OCR System](https://developers.googleblog.com/2007/04/announcing-ocropus-open-source-ocr.html) April 9, 2007 and remark in old [CHANGES](https://github.com/michaelyin/ocropus-git/blob/d39c2e396b2afa700932a0523d06bc4a246a2ec2/CHANGES): "The Ocropus svn was opened to the public in April 2007 in order to give a first preview of the project. The Technology Preview internally combined Tesseract 1.x with some Layout Analysis algorithms.In this stage, a basic system was already working but the whole architecture was still changing as well as the interfaces for the respective modules / components."
