@@ -1,6 +1,7 @@
 * ([kraken](https://github.com/mittagessen/kraken)) [Important New Developments in Arabographic Optical Character Recognition (OCR)](http://www.academia.edu/28923960/Important_New_Developments_in_Arabographic_Optical_Character_Recognition_OCR_) (2016)  
 Maxim Romanov, Matthew Thomas Miller, Sarah Bowen Savant, Benjamin Kiessling
-* [OCR of historical printings with an application to building diachronic corpora: A case study using the RIDGES herbal corpus](https://arxiv.org/abs/1608.02153)
+* [OCR of historical printings with an application to building diachronic corpora: A case study using the RIDGES herbal corpus](https://arxiv.org/abs/1608.02153) (2016)  
+Uwe Springmann, Anke Lüdeling
 * [Automatic quality evaluation and (semi-) automatic improvement of mixed models for OCR on historical documents](http://arxiv.org/abs/1606.05157) (2016)  
 Uwe Springmann, Florian Fink, Klaus U. Schulz
 * [Generic Text Recognition using Long Short-Term Memory Networks](https://kluedo.ub.uni-kl.de/frontdoor/index/index/docId/4353) (2016)  
