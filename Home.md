@@ -6,7 +6,6 @@ There are up-to-date and hands-on articles in this very wiki:
 
 * [Compute errors and confusions](https://github.com/tmbdev/ocropy/wiki/Compute-errors-and-confusions)
 * [Working with Ground truth](https://github.com/tmbdev/ocropy/wiki/Working-with-Ground-Truth)
-* [How to train your own OCRopy models](http://cistern.cis.lmu.de/ocrocis/tutorial.pdf)
 
 ## IPython Notebooks
 
@@ -21,6 +20,7 @@ There are also some articles on ocropy on the web:
 
 * [Extracting text from an image using Ocropus](http://www.danvk.org/2015/01/09/extracting-text-from-an-image-using-ocropus.html)
 * [Training an Ocropus OCR model](http://www.danvk.org/2015/01/11/training-an-ocropus-ocr-model.html)
+* [How to train your own OCRopy models](http://cistern.cis.lmu.de/ocrocis/tutorial.pdf)
 
 ## Get in touch
 
