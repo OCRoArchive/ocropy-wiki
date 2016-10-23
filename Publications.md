@@ -1,3 +1,7 @@
+## LSTM
+
+### 2016
+
 * ([kraken](https://github.com/mittagessen/kraken)) [Important New Developments in Arabographic Optical Character Recognition (OCR)](http://www.academia.edu/28923960/Important_New_Developments_in_Arabographic_Optical_Character_Recognition_OCR_) (2016)  
 Maxim Romanov, Matthew Thomas Miller, Sarah Bowen Savant, Benjamin Kiessling
 * [OCR of historical printings with an application to building diachronic corpora: A case study using the RIDGES herbal corpus](https://arxiv.org/abs/1608.02153) (2016)  
@@ -8,6 +12,9 @@ Uwe Springmann, Florian Fink, Klaus U. Schulz
 Adnan Ul-Hasan – Ph.D Thesis
 * [OCRoRACT: A Sequence Learning OCR System Trained on Isolated Characters](https://www.researchgate.net/publication/294575734_OCRoRACT_A_Sequence_Learning_OCR_System_Trained_on_Isolated_Characters) (2016)  
 Andreas Dengel, Adnan Ul-Hasan, Syed Saqib Bukhari
+
+### 2015
+
 * [Benchmarking of LSTM Networks](http://arxiv.org/abs/1508.02774) (2015)  
 Thomas M. Breuel
 * [Recognition of Historical Greek Polytonic Scripts Using LSTM](http://users.iit.demokritos.gr/~bgat/OldDocPro/05_paper_305.pdf) (2015)  
@@ -17,7 +24,13 @@ Fotini Simistira, Adnan Ul-Hassan, Vassilis Papavassiliou, Basilis Gatos, Vassil
 Tushar Karayil, Adnan Ul-Hasan, Thomas M. Breuel
 * [A Sequence Learning Approach for Multiple Script Identification](https://www.researchgate.net/publication/280777013_A_Sequence_Learning_Approach_for_Multiple_Script_Identification) (2015)  
 Adnan Ul-Hasan, Muhammad Zeshan Afzal, Faisal Shfait,  Marcus Liwicki, Thomas M. Breuel
+
+### 2014
+
 * [ OCR of historical printings of Latin texts: Problems, Prospects, Progress.] (http://www.springmann.net/papers/2014-04-07-DATeCH2014-springmann.pdf) (2014) Uwe Springmann, Dietmar Najock, Hermann Morgenroth, Helmut Schmid, Annette Gotscharek, and Florian Fink
+
+### 2013
+
 * [High Performance OCR for Printed English and Fraktur using LSTM Networks](http://staffhome.ecm.uwa.edu.au/~00082689/papers/Breuel-LSTM-OCR-ICDAR13.pdf) (2013)
 Thomas M. Breuel, Adnan Ul-Hasan, Mayce Al Azawi. Faisal Shafait
 * [Can we build language-independent OCR using LSTM networks?](https://www.researchgate.net/publication/260341307_Can_we_build_language-independent_OCR_using_LSTM_networks)
@@ -26,7 +39,7 @@ Adnan Ul-Hasan, Thomas M. Breuel
 * [Offline Printed Urdu Nastaleeq Script Recognition with Bidirectional LSTM Networks](http://staffhome.ecm.uwa.edu.au/~00082689/papers/Adnan-Urdu-OCR-ICDAR13.pdf) (2013)  
 Adnan Ul-Hasan, Saad Bin Ahmed, Sheikh Faisal Rashid, Faisal Shafait, Thomas M. Breuel
 
-###Version 0.6
+##Version 0.6
 
 This old version used a different OCR engine than the current LSTM-based version.
 
