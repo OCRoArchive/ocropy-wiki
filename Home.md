@@ -7,6 +7,8 @@ There are up-to-date and hands-on articles in this very wiki:
 * [Compute errors and confusions](https://github.com/tmbdev/ocropy/wiki/Compute-errors-and-confusions)
 * [Working with Ground truth](https://github.com/tmbdev/ocropy/wiki/Working-with-Ground-Truth)
 
+Moreover, there are some other frequently asked questions collected in a [FAQ](https://github.com/tmbdev/ocropy/wiki/FAQ).
+
 ## IPython Notebooks
 
 The project repository [contains some IPython notebooks](https://github.com/tmbdev/ocropy/search?l=jupyter-notebook&q=&type=Code&utf8=%E2%9C%93). Note that most of them are outdated (in the folder `./OLD`).
