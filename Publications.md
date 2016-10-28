@@ -42,7 +42,7 @@ Adnan Ul-Hasan, Saad Bin Ahmed, Sheikh Faisal Rashid, Faisal Shafait, Thomas M. 
 
 ## Binarization
 A paper describing the algorithm used in ['ocropus-nlbin'](https://github.com/tmbdev/ocropy/blob/master/ocropus-nlbin):  
-* [Robust Binarization of Stereo and Monocular Document Images Using Percentile Filter](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.588.7273&rep=rep1&type=pdf)  
+* [Robust Binarization of Stereo and Monocular Document Images Using Percentile Filter](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.588.7273&rep=rep1&type=pdf) (2013)  
 Muhammad Zeshan Afzal, Martin Krämer, Syed Saqib Bukhari,
 Mohammad Reza Yousefi, Faisal Shafait, Thomas M. Breuel
 
