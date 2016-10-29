@@ -6,6 +6,10 @@ https://github.com/tmbdev/ocropy/blob/master/README_OSX.md
 
 https://github.com/tmbdev/ocropy/issues/73
 
+## How t oinstall Ocropus on fedora?
+
+https://github.com/tmbdev/ocropy/issues/48
+
 ## When can colorful, grayscale or black-and-white images used?
 
  * Binarization `ocropus-nlbin`: You can input colorful pictures and the output are a binarized black-white version `.bin.png` as well as a grayscale version `.nrm.png`.
