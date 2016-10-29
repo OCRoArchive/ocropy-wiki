@@ -6,7 +6,7 @@ https://github.com/tmbdev/ocropy/blob/master/README_OSX.md
 
 https://github.com/tmbdev/ocropy/issues/73
 
-## How t oinstall Ocropus on fedora?
+## How to install Ocropus on fedora?
 
 https://github.com/tmbdev/ocropy/issues/48
 
