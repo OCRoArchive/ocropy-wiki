@@ -112,7 +112,7 @@ chr <segment-id> <chr-id> <cost> <class-in-unicode>
 
 ## OCR Output
 
-See ocr-in-html
+See [ocr-in-html (hOCR)](https://hocr.info)
 
 
 ## External / Other File Formats
