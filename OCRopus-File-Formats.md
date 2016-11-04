@@ -1,4 +1,4 @@
-This wiki site is based on https://docs.google.com/document/d/1czzhPZdQRs5vENwftHGt608BS1Y7Jj2f5ZZIkuSKP8A/preview#
+This wiki site is based on https://docs.google.com/document/d/1czzhPZdQRs5vENwftHGt608BS1Y7Jj2f5ZZIkuSKP8A/preview#, discussed in [issue #126](https://github.com/tmbdev/ocropy/issues/126)
 
 ## Binary Page Images
 
