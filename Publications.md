@@ -39,7 +39,8 @@ Thomas M. Breuel, Adnan Ul-Hasan, Mayce Al Azawi. Faisal Shafait
 Adnan Ul-Hasan, Thomas M. Breuel
 * [Offline Printed Urdu Nastaleeq Script Recognition with Bidirectional LSTM Networks](http://staffhome.ecm.uwa.edu.au/~00082689/papers/Adnan-Urdu-OCR-ICDAR13.pdf) (2013)  
 Adnan Ul-Hasan, Saad Bin Ahmed, Sheikh Faisal Rashid, Faisal Shafait, Thomas M. Breuel
-* [ICDAR 2013 LSTM Tutorial](http://lstm.iupr.com/)
+* [ICDAR 2013 LSTM Tutorial - Building Fast High-Performance Recognition Systems with Recurrent Neural Networks and LSTM](http://lstm.iupr.com/)  
+Thomas Breuel, Volkmar Frinken, Marcus Liwicki
 
 ## Binarization
 A paper describing the algorithm used in ['ocropus-nlbin'](https://github.com/tmbdev/ocropy/blob/master/ocropus-nlbin):  
