@@ -12,3 +12,6 @@ This is a list of trained models for recognition with ocropy.
 
 ## Asian Scripts
  * Japanese by @isaomatsunami: https://github.com/isaomatsunami/clstm-Japanese (56 MB)
+
+## Indic Scripts
+ * Telugu model & training data: https://github.com/ChillarAnand/likitham
