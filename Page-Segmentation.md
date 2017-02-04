@@ -3,8 +3,8 @@ _Help us by extending this notes..._
 
 ---
 
-The command `ocropus-gpageseg` will segment the page into smaller parts like
-columns and lines.
+The command [`ocropus-gpageseg`](https://github.com/tmbdev/ocropy/blob/master/ocropus-gpageseg)
+will segment the page into smaller parts like columns and lines.
 
 ```
 ocropus-gpageseg [add here possible options] <input files>
@@ -46,7 +46,7 @@ Moreover, a `pseg.png` file is created, [OCRopus-File-Formats/Physical Layout](h
 ```
 
 
-## line parameters
+## Line parameters
 
 ```
   --threshold THRESHOLD
@@ -60,7 +60,7 @@ Moreover, a `pseg.png` file is created, [OCRopus-File-Formats/Physical Layout](h
 ### Black column separators
 
 ```
-  -- maxseps MAXSEPS      maximum black column separators, default: 2
+  --maxseps MAXSEPS      maximum black column separators, default: 2
   --sepwiden SEPWIDEN   widen black separators (to account for warping),
                         default: 10
   -b, --blackseps       also check for black column separators
