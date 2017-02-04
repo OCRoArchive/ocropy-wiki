@@ -21,9 +21,9 @@ need a normalized grayscale image with the file ending `.nrm.png`.
 
 For example all of these calls
 ```
-ocropus-gpageseg test
-ocropus-gpageseg test.png
+ocropus-gpageseg test.jpg
 ocropus-gpageseg test.bin.png
+ocropus-gpageseg test.nrm.png
 ```
 will make the computation on `test.bin.png` (if this does not exists then
 an error is thrown).
