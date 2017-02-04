@@ -1,3 +1,8 @@
+🚧 _Work in Progress_ 🚧  
+_Help us by extending this notes..._
+
+---
+
 The command `ocropus-gpageseg` will segment the page into smaller parts like
 columns and lines.
 
@@ -16,6 +21,10 @@ As usual, you will find the help for this command by adding `-h` resp. `--help`.
 
 output grayscale lines as well, default: False
 
+### expand
+
+expand mask for grayscale extraction, default: 3
+
 ### pad
 
 padding for extracted lines, default: 3
@@ -26,7 +35,7 @@ be less verbose, default: False
 
 ### debug
 
-## Other options
+## Check, scale, zoom
 
 ### nocheck
 
@@ -56,23 +65,22 @@ non-standard scaling of horizontal parameters, default: 1.0
 
 non-standard scaling of vertical parameters, default: 1.0
 
-### threshold
 
-baseline threshold, default: 0.2
+## line parameters
 
-### noise
-
-noise threshold for removing small components from lines, default: 8
-
-### usegauss
-
-use gaussian instead of uniform, default: False
+```
+  --threshold THRESHOLD
+                        baseline threshold, default: 0.2
+  --noise NOISE         noise threshold for removing small components from
+                        lines, default: 8
+  --usegauss            use gaussian instead of uniform, default: False
+```
 
 
 ### Black column separators
 
 ```
--- maxseps MAXSEPS      maximum black column separators, default: 2
+  -- maxseps MAXSEPS      maximum black column separators, default: 2
   --sepwiden SEPWIDEN   widen black separators (to account for warping),
                         default: 10
   -b, --blackseps       also check for black column separators
@@ -91,9 +99,7 @@ use gaussian instead of uniform, default: False
 ```
 
 
-### expand
 
-expand mask for grayscale extraction, default: 3
 
 ### parallel
 
