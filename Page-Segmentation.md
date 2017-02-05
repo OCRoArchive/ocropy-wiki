@@ -16,8 +16,8 @@ ocropus-gpageseg [add here possible options] <input files>
 For input, you can name one or several `png` images, which usually you will
 be given after the `ocropus-nlbin` command. For each file name a binarized
 version with the file ending `.bin.png` is looked for and the computation
-here is actually done on this binarized image. For some option you also
-need a normalized grayscale image with the file ending `.nrm.png`.
+here is actually done on this binarized image. (However, it is still important
+that the file name points to an existing file.)
 
 For example all of these calls
 ```
@@ -38,6 +38,7 @@ starting from `010000`.
 
 Moreover, a `pseg.png` file is created, [OCRopus-File-Formats/Physical Layout](https://github.com/tmbdev/ocropy/wiki/OCRopus-File-Formats#physical-layout) for more details.
 
+The following parameters influence the output further:
 ```
   --gray                output grayscale lines as well, default: False
   -p PAD, --pad PAD     padding for extracted lines, default: 3
@@ -45,6 +46,13 @@ Moreover, a `pseg.png` file is created, [OCRopus-File-Formats/Physical Layout](h
                         expand mask for grayscale extraction, default: 3
 ```
 
+### Binarized and grayscale output
+
+By default only binarized images `.bin.png` of the lines are generated. However,
+by adding the parameter `--gray` also normalized grayscale images `.nrm.png`
+of all the lines are generated. You can also use grayscale images for training
+or prediction, see [FAQ/When can colorful, grayscale or black-and-white images used?](https://github.com/tmbdev/ocropy/wiki/FAQ#when-can-colorful-grayscale-or-black-and-white-images-used) for some
+further discussion.
 
 ## Line parameters
 
@@ -57,7 +65,7 @@ Moreover, a `pseg.png` file is created, [OCRopus-File-Formats/Physical Layout](h
 ```
 
 
-### Black column separators
+## Black column separators
 
 ```
   --maxseps MAXSEPS      maximum black column separators, default: 2
@@ -67,7 +75,7 @@ Moreover, a `pseg.png` file is created, [OCRopus-File-Formats/Physical Layout](h
 ```
 
 
-### whitspace column separators
+## whitspace column separators
 
 ```
   --maxcolseps MAXCOLSEPS
@@ -95,7 +103,6 @@ Moreover, a `pseg.png` file is created, [OCRopus-File-Formats/Physical Layout](h
                         1.0
 
 ```
-
 
 
 ## Other options
