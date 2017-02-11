@@ -73,7 +73,7 @@ two-column text there is exactly one separator in the middle.
 
 ```
   --maxcolseps MAXCOLSEPS
-                        maximum # whitespace column separators, default: 2
+                        maximum # whitespace column separators, default: 3
   --csminheight CSMINHEIGHT
                         minimum column height (units=scale), default: 10
   --csminaspect CSMINASPECT
