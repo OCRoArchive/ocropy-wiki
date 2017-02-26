@@ -1,6 +1,6 @@
 # ocropy Wiki
 
-## Notable wiki articles
+## Wiki articles, FAQ, Mind Maps
 
 There are up-to-date and hands-on articles in this very wiki:
 
@@ -8,7 +8,11 @@ There are up-to-date and hands-on articles in this very wiki:
 * [Compute errors and confusions](https://github.com/tmbdev/ocropy/wiki/Compute-errors-and-confusions)
 * [Working with Ground truth](https://github.com/tmbdev/ocropy/wiki/Working-with-Ground-Truth)
 
-Moreover, there are some other frequently asked questions collected in a [FAQ](https://github.com/tmbdev/ocropy/wiki/FAQ).
+Moreover, there are some other frequently asked questions collected in a [FAQ section](https://github.com/tmbdev/ocropy/wiki/FAQ).
+
+For a general overview you can look at some mind maps:
+* [OCRopus Workflow Diagram](https://rawgit.com/tmbdev/ocropy/master/doc/workflow.html)
+* [OCRopus Overview](https://www.mindmeister.com/192257150/ocropus-overview-published) by Tomas Breuel (2014)
 
 ## IPython Notebooks
 
