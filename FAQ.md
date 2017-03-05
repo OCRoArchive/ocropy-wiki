@@ -2,6 +2,8 @@
 
 https://github.com/tmbdev/ocropy/blob/master/README_OSX.md
 
+(related issue [#70](https://github.com/tmbdev/ocropy/issues/70))
+
 ## How to install Ocropus on windows?
 
 https://github.com/tmbdev/ocropy/issues/73
