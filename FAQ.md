@@ -31,3 +31,8 @@ It is possible to use scans of two pages in the same image, which will then be h
 for i in *.tif; do echo $i; convert $i -crop 2x1+0+0@ +repage +adjoin [insert_output_folder_name_here]/output$i; done
 ```
 * ScanTailor: http://scantailor.org/
+
+
+## Can ocropus be used for handwritten text recognition?
+
+Well, in theory this should work, but probably need a lot of training data (images + ground truth) and training steps. I don't know of anyone has done much into this direction with ocropus. There might be other software/projects more tailored for handwritten text, e.g. https://transkribus.eu/Transkribus/ .
