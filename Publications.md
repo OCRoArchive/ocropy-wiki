@@ -54,3 +54,6 @@ This old version used a different OCR engine than the current LSTM-based version
 
 * [Local Logistic Classifiers for Large Scale Learning](http://www.academia.edu/2959462/Local_Logistic_Classifiers_for_Large_Scale_Learning) (2012)  
 Mohammad Reza Yousefi, Thomas M. Breuel
+* [The OCRopus open source OCR system](http://www.helsinki.fi/~mpsilfve/ocr_course/materials/2008-breuel-ocropus-open-source.pdf) (2008)
+Thomas M. Breuel
+
