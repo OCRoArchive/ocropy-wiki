@@ -27,7 +27,7 @@ Adnan Ul-Hasan, Muhammad Zeshan Afzal, Faisal Shfait,  Marcus Liwicki, Thomas M.
 
 ### 2014
 
-* [ OCR of historical printings of Latin texts: Problems, Prospects, Progress.] (http://www.springmann.net/papers/2014-04-07-DATeCH2014-springmann.pdf) (2014)  
+* [OCR of historical printings of Latin texts: Problems, Prospects, Progress](http://www.springmann.net/papers/2014-04-07-DATeCH2014-springmann.pdf) (2014)  
 Uwe Springmann, Dietmar Najock, Hermann Morgenroth, Helmut Schmid, Annette Gotscharek, and Florian Fink
 
 ### 2013
@@ -56,4 +56,3 @@ This old version used a different OCR engine than the current LSTM-based version
 Mohammad Reza Yousefi, Thomas M. Breuel
 * [The OCRopus open source OCR system](http://www.helsinki.fi/~mpsilfve/ocr_course/materials/2008-breuel-ocropus-open-source.pdf) (2008)
 Thomas M. Breuel
-
