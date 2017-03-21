@@ -48,7 +48,7 @@ A paper describing the algorithm used in ['ocropus-nlbin'](https://github.com/tm
 Muhammad Zeshan Afzal, Martin Krämer, Syed Saqib Bukhari,
 Mohammad Reza Yousefi, Faisal Shafait, Thomas M. Breuel
 
-##Version 0.6
+## Version 0.6
 
 This old version used a different OCR engine than the current LSTM-based version.
 
