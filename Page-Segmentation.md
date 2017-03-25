@@ -1,5 +1,5 @@
-🚧 _Work in Progress_ 🚧  
-_Help us by extending this notes..._
+_Work in Progress_
+_Help us by extending these notes..._
 
 ---
 
