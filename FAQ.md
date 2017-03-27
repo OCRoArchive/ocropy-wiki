@@ -40,3 +40,8 @@ for i in *.tif; do echo $i; convert $i -crop 2x1+0+0@ +repage +adjoin [insert_ou
 ## Can ocropus be used for handwritten text recognition?
 
 Well, in theory this should work, but probably need a lot of training data (images + ground truth) and training steps. I don't know of anyone has done much into this direction with ocropus. There might be other software/projects more tailored for handwritten text, e.g. https://transkribus.eu/Transkribus/ .
+
+
+## What is the "ALN" line during training?
+
+ALN is the result of decoding the alignment of the raw output with the ground truth. That is, ALN uses the ground truth. You can't use it for predictions, but it helps follow the progress of training.
