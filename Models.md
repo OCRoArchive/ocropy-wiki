@@ -20,7 +20,7 @@ This is a list of trained models for recognition with ocropy.
 ## Indic Scripts
  * Telugu model & training data: https://github.com/ChillarAnand/likitham
 
-## Hume Dialogs text
+## Hume Dialogs text, https://archive.org/details/dialoguesconcern1779hume
  * Ocropy model for normal text https://github.com/urhub/ocropy/blob/master/models/hume-model-normal-p36-00126000.pyrnn.gz
  * Ocropy model for italics text https://github.com/urhub/ocropy/blob/master/models/hume-model-italics--00025000.pyrnn.gz
  * Ocropy results, page 230, normal text, https://github.com/urhub/ocropy/blob/master/models/p230_m36n126.pdf
