@@ -7,6 +7,8 @@ This is a list of trained models for recognition with ocropy.
  * early 20th century antiqua including south-east European characters: https://github.com/jze/ocropus-model_oesterreich-ungarn (including training data)
  * (Old) French: https://github.com/zuphilip/ocropy-french-models (26 MB)
  * [Older models by @tmbdev: http://www.tmbdev.net/ocropy/OLD/]
+ * models (normal text, italics) trained with the Hume Dialogues text (English text, published 1779): https://github.com/urhub/ocropy/tree/master/models
+
 
 ## Polytonic Greek Script
  * https://github.com/brobertson/ciaconna/tree/master/Classifiers
@@ -19,9 +21,3 @@ This is a list of trained models for recognition with ocropy.
 
 ## Indic Scripts
  * Telugu model & training data: https://github.com/ChillarAnand/likitham
-
-## Hume Dialogs text, https://archive.org/details/dialoguesconcern1779hume
- * Ocropy model for normal text https://github.com/urhub/ocropy/blob/master/models/hume-model-normal-p36-00126000.pyrnn.gz
- * Ocropy model for italics text https://github.com/urhub/ocropy/blob/master/models/hume-model-italics--00025000.pyrnn.gz
- * Ocropy results, page 230, normal text, https://github.com/urhub/ocropy/blob/master/models/p230_m36n126.pdf
- * Ocropy results, page 230, italics text, https://github.com/urhub/ocropy/blob/master/models/p230_mi25.pdf
