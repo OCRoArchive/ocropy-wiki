@@ -2,7 +2,7 @@
 
 ### 2016
 
-* ([kraken](https://github.com/mittagessen/kraken)) [Important New Developments in Arabographic Optical Character Recognition (OCR)](http://www.academia.edu/28923960/Important_New_Developments_in_Arabographic_Optical_Character_Recognition_OCR_) (2016)  
+* ([kraken](https://github.com/mittagessen/kraken)) [Important New Developments in Arabographic Optical Character Recognition (OCR)](https://arxiv.org/abs/1703.09550) (2016)  
 Maxim Romanov, Matthew Thomas Miller, Sarah Bowen Savant, Benjamin Kiessling
 * [OCR of historical printings with an application to building diachronic corpora: A case study using the RIDGES herbal corpus](https://arxiv.org/abs/1608.02153) (2016)  
 Uwe Springmann, Anke Lüdeling
