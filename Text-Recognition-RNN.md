@@ -31,7 +31,7 @@ By default a [line normalizer](https://github.com/tmbdev/ocropy/blob/master/ocro
 ![before-dewarp](https://cloud.githubusercontent.com/assets/5199995/25391160/e28caec2-29d5-11e7-9f58-bb1606358064.png)
 ![after-dewarp](https://cloud.githubusercontent.com/assets/5199995/25391318/4961024c-29d6-11e7-8b3f-d131c1c09e3e.png)
 
-The dewarping of the text line (first image) tries to find the center (blue curve) and then cut out slices with some fixed radius around the center (cf. [this illustration](https://cloud.githubusercontent.com/assets/5199995/25392360/bcadf60e-29d8-11e7-9ed7-acfba811f8a4.png)). This will then assure that the center line is horizontally and thereby the text line dewarped.
+The dewarping of the text line (first image) tries to find the center (blue curve) and then cut out slices with some fixed radius around the center (cf. [this illustration](https://cloud.githubusercontent.com/assets/5199995/25406275/6905c7ce-2a06-11e7-89e0-ca740cd8a21c.png)). This will then assure that the center line is horizontally and thereby the text line dewarped.
 
 The default behavior can be influence by these two parameters:
 ```
