@@ -5,6 +5,7 @@
 There are up-to-date and hands-on articles in this very wiki:
 
 * [Page Segmentation](https://github.com/tmbdev/ocropy/wiki/Page-Segmentation)
+* [Text Recognition RNN](https://github.com/tmbdev/ocropy/wiki/Text-Recognition-RNN)
 * [Compute errors and confusions](https://github.com/tmbdev/ocropy/wiki/Compute-errors-and-confusions)
 * [Working with Ground truth](https://github.com/tmbdev/ocropy/wiki/Working-with-Ground-Truth)
 
