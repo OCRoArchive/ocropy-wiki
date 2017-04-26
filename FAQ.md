@@ -46,3 +46,19 @@ Well, in theory this should work, but probably need a lot of training data (imag
 ## What is the "ALN" line during training?
 
 ALN is the result of decoding the alignment of the raw output with the ground truth. That is, ALN uses the ground truth. You can't use it for predictions, but it helps follow the progress of training.
+
+## How to avoid the UserWarning: Matplotlib is building the font cache?
+
+If you see in the beginning of the commands the following warning
+```
+/usr/lib/python2.7/dist-packages/matplotlib/font_manager.py:273: UserWarning: Matplotlib is building the font cache using fc-list. This may take a moment.
+  warnings.warn('Matplotlib is building the font cache using fc-list. This may take a moment.')
+```
+then one of or several of the following calls should help
+```
+rm -rf ~/.matplotlib
+rm -rf ~/.cache/matplotlib
+rm -rf ~/.cache/fontconfig/
+```
+
+See https://github.com/matplotlib/matplotlib/issues/5836
