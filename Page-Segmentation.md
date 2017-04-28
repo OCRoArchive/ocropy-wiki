@@ -76,8 +76,6 @@ two-column text there is exactly one separator in the middle.
                         maximum # whitespace column separators, default: 3
   --csminheight CSMINHEIGHT
                         minimum column height (units=scale), default: 10
-  --csminaspect CSMINASPECT
-                        minimum aspect ratio for column separators
 ```
 
 For example
@@ -100,31 +98,32 @@ separator in the middle was found and taken into account (see the
 ## Black column separators
 
 By default, the black column separators are not checked, but this can be
-activated by `-b` and influenced further with these options:
+changed by setting the `maxseps` parameter to a positive number:
 
 ```
-  -b, --blackseps       also check for black column separators
-  --maxseps MAXSEPS     maximum black column separators, default: 2
+  --maxseps MAXSEPS     maximum black column separators, default: 0
   --sepwiden SEPWIDEN   widen black separators (to account for warping),
                         default: 10
 ```
 
 
-## Check, scale, zoom
+## Check
 
 ```
   -n, --nocheck         disable error checking on inputs
-  -z ZOOM, --zoom ZOOM  zoom for page background estimation, smaller=faster,
-                        default: 0.5
   --minscale MINSCALE   minimum scale permitted, default: 12.0
   --maxlines MAXLINES   maximum # lines permitted, default: 300
+```
+
+## Scale
+
+```
   --scale SCALE         the basic scale of the document (roughly, xheight)
                         0=automatic, default: 0.0
   --hscale HSCALE       non-standard scaling of horizontal parameters,
                         default: 1.0
   --vscale VSCALE       non-standard scaling of vertical parameters, default:
                         1.0
-
 ```
 
 
