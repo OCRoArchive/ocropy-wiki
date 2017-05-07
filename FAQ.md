@@ -43,6 +43,21 @@ for i in *.tif; do echo $i; convert $i -crop 2x1+0+0@ +repage +adjoin [insert_ou
 Well, in theory this should work, but probably need a lot of training data (images + ground truth) and training steps. I don't know of anyone has done much into this direction with ocropus. There might be other software/projects more tailored for handwritten text, e.g. https://transkribus.eu/Transkribus/ .
 
 
+## What exactly is meant by 300 dpi for digital images?
+
+The default parameters and settings of OCRopus assume 300dpi scanned images with black text on white pages and some standard font size (9pt to 14pt).
+This is normally the first thing you should check when the recognition quality is not good.
+When using a document/book scanner you normally can adjust this parameter, with other devices like a fax or smartphone camera you might not have this information.
+
+As an indication: An A4-papier (210mm × 297mm) scanned with 300dpi results in an image with 2504 x 3540 pixels.
+
+Pictures with low resolution or very hight resolution (e.g. 1200dpi) will usually not work well (there are some tests which might alerting the user in these cases).
+Resizing/rescaling the image might help in cases you can influence the scan quality on the device itself. Possible algorithms for that are:
+* ImageMagick's `convert`
+* People have reported good results with [Waifu2x](http://waifu2x.udp.jp/)
+* [neural-enhance](https://github.com/alexjc/neural-enhance)
+
+
 ## What is the "ALN" line during training?
 
 ALN is the result of decoding the alignment of the raw output with the ground truth. That is, ALN uses the ground truth. You can't use it for predictions, but it helps follow the progress of training.
