@@ -1,5 +1,10 @@
 ## LSTM
 
+### 2017
+
+* [OCR and post-correction of historical Finnish texts](http://www.ep.liu.se/ecp/131/009/ecp17131009.pdf) (2017)  
+Senka Drobac, Pekka Kauppinen, Krister Lindén  
+
 ### 2016
 
 * ([kraken](https://github.com/mittagessen/kraken)) [Important New Developments in Arabographic Optical Character Recognition (OCR)](https://arxiv.org/abs/1703.09550) (2016)  
