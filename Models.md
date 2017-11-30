@@ -1,5 +1,12 @@
 This is a list of trained models for recognition with ocropy. 
 
+Download the models and copy them to one of:
+* `$OCROPUS_DATA`, which you can define in the environment, e.g. in `~/.bashrc`: `OCROPUS_DATA=/data/ocropus-models/`
+* the working directory where you run `ocropus-*`
+* a subdirectory `./models` from the current working directory
+* `/usr/local/share/ocropus`
+* `/usr/share/ocropus`
+
 ## Latin Scripts
  * English Default: http://www.tmbdev.net/en-default.pyrnn.gz (80 MB)
  * Fraktur: http://tmbdev.net/ocropy/fraktur.pyrnn.gz (42 MB)
