@@ -15,6 +15,7 @@ Download the models and copy them to one of:
  * (Old) French: https://github.com/zuphilip/ocropy-french-models (26 MB)
  * [Older models by @tmbdev: http://www.tmbdev.net/ocropy/OLD/]
  * models (normal text, italics) trained with the Hume Dialogues text (English text, published 1779): https://github.com/urhub/ocropy/tree/master/models
+ * a mixed OCRopus model trained on twelve Latin books printed with Antiqua types between 1471 and 1686 with a focus (ten out of twelve) on early works produced before 1600: https://github.com/chreul/OCR_Testdata_EarlyPrintedBooks (16MB)
 
 
 ## Polytonic Greek Script
