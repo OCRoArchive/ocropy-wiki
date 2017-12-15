@@ -17,7 +17,8 @@ Uwe Springmann, Anke Lüdeling
 * [Automatic quality evaluation and (semi-) automatic improvement of mixed models for OCR on historical documents](http://arxiv.org/abs/1606.05157) (2016)  
 Uwe Springmann, Florian Fink, Klaus U. Schulz
 * [Generic Text Recognition using Long Short-Term Memory Networks](https://kluedo.ub.uni-kl.de/frontdoor/index/index/docId/4353) (2016)  
-Adnan Ul-Hasan – Ph.D Thesis
+Ph.D Thesis by Adnan Ul-Hasan  
+Thesis Reviewers: Andreas Dengel, Faisal Shafait, Marcus Liwicki
 * [OCRoRACT: A Sequence Learning OCR System Trained on Isolated Characters](https://www.researchgate.net/publication/294575734_OCRoRACT_A_Sequence_Learning_OCR_System_Trained_on_Isolated_Characters) (2016)  
 Andreas Dengel, Adnan Ul-Hasan, Syed Saqib Bukhari
 
@@ -33,7 +34,8 @@ Tushar Karayil, Adnan Ul-Hasan, Thomas M. Breuel
 * [A Sequence Learning Approach for Multiple Script Identification](https://www.researchgate.net/publication/280777013_A_Sequence_Learning_Approach_for_Multiple_Script_Identification) (2015)  
 Adnan Ul-Hasan, Muhammad Zeshan Afzal, Faisal Shfait,  Marcus Liwicki, Thomas M. Breuel
 * [Statistical Language Modeling for Historical Documents using Weighted Finite-State Transducers and Long Short-Term Memory](https://kluedo.ub.uni-kl.de/frontdoor/index/index/year/2015/docId/4022) (2015)  
-Ph.D Thesis by Mayce Al Azawi. Thesis supervisors: Thomas M Breuel, Andreas Dengel, Marcus Liwicki
+Ph.D Thesis by Mayce Al Azawi  
+Thesis supervisors: Thomas M Breuel, Andreas Dengel, Marcus Liwicki
 
 ### 2014
 
