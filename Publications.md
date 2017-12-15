@@ -33,7 +33,7 @@ Tushar Karayil, Adnan Ul-Hasan, Thomas M. Breuel
 * [A Sequence Learning Approach for Multiple Script Identification](https://www.researchgate.net/publication/280777013_A_Sequence_Learning_Approach_for_Multiple_Script_Identification) (2015)  
 Adnan Ul-Hasan, Muhammad Zeshan Afzal, Faisal Shfait,  Marcus Liwicki, Thomas M. Breuel
 * [Statistical Language Modeling for Historical Documents using Weighted Finite-State Transducers and Long Short-Term Memory](https://kluedo.ub.uni-kl.de/frontdoor/index/index/year/2015/docId/4022) (2015)  
-Mayce Al Azawi – Ph.D Thesis
+Ph.D Thesis by Mayce Al Azawi. Thesis supervisors: Thomas M Breuel, Andreas Dengel, Marcus Liwicki
 
 ### 2014
 
