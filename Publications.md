@@ -2,6 +2,9 @@
 
 ### 2017
 
+* [Improving OCR Accuracy on Early Printed Books by utilizing Cross Fold Training and Voting](https://arxiv.org/abs/1711.09670) (2017)  
+Christian Reul, Uwe Springmann, Christoph Wick, Frank Puppe
+
 * [OCR and post-correction of historical Finnish texts](http://www.ep.liu.se/ecp/131/009/ecp17131009.pdf) (2017)  
 Senka Drobac, Pekka Kauppinen, Krister Lindén  
 
