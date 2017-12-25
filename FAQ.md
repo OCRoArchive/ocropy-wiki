@@ -4,18 +4,22 @@ Starting from version 1.3.3 the default installation should exactly the
 same. Previously, there was some native C code which was needed to compile
 dynamically with a compiler with a different flag for Mac.
 
-## How to install Ocropus on windows?
+## How to install Ocropus on Windows?
 
 https://github.com/tmbdev/ocropy/issues/73 and 
 https://github.com/tmbdev/ocropy/issues/263#issuecomment-347008893
 
-## How to install Ocropus on fedora?
+## How to install Ocropus on Fedora?
 
 https://github.com/tmbdev/ocropy/issues/48
 
 ## How to install Ocropus on Linux Mint?
 
 https://github.com/tmbdev/ocropy/issues/191
+
+## How to install Ocropus on CentOS?
+
+https://github.com/tmbdev/ocropy/issues/226
 
 ## Is there a docker image for Ocropus?
 
