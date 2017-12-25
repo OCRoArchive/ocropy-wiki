@@ -2,8 +2,8 @@
 
 ### 2017
 
-* [Transfer Learning for OCRopus Model Training on Early Printed Books](https://arxiv.org/abs/1712.05586) (2017)  
-Christian Reul, Christoph Wick, Uwe Springmann, Frank Puppe
+* [Transfer Learning for OCRopus Model Training on Early Printed Books](http://0277.ch/ojs/index.php/cdrs_0277/article/view/169/378) (2017)  
+Christian Reul, Christoph Wick, Uwe Springmann, Frank Puppe [[arXiv version](https://arxiv.org/abs/1712.05586)]
 
 * [Improving OCR Accuracy on Early Printed Books by utilizing Cross Fold Training and Voting](https://arxiv.org/abs/1711.09670) (2017)  
 Christian Reul, Uwe Springmann, Christoph Wick, Frank Puppe
