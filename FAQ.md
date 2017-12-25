@@ -1,8 +1,8 @@
 ## How to install Ocropus on a Mac?
 
-https://github.com/tmbdev/ocropy/blob/master/README_OSX.md
-
-(related issue [#70](https://github.com/tmbdev/ocropy/issues/70))
+Starting from version 1.3.3 the default installation should exactly the
+same. Previously, there was some native C code which was needed to compile
+dynamically with a compiler with a different flag for Mac.
 
 ## How to install Ocropus on windows?
 
@@ -16,6 +16,10 @@ https://github.com/tmbdev/ocropy/issues/48
 ## How to install Ocropus on Linux Mint?
 
 https://github.com/tmbdev/ocropy/issues/191
+
+## Is there a docker image for Ocropus?
+
+Yes, e.g. https://hub.docker.com/r/kbai/ocropy/
 
 ## When can colorful, grayscale or black-and-white images used?
 
@@ -78,3 +82,7 @@ rm -rf ~/.cache/fontconfig/
 ```
 
 See https://github.com/matplotlib/matplotlib/issues/5836
+
+## How can Ocropus be run on a command line only without graphical output?
+
+Try to set `export MPLBACKEND="agg"`.
