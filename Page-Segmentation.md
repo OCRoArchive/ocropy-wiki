@@ -88,7 +88,7 @@ changed by setting the `maxseps` parameter to a positive number:
                         default: 10
 ```
 
-### Example
+### Example for column separators
 
 ```
 ocropus-gpageseg -d --maxcolseps 0 tests/testpage.png
@@ -109,12 +109,20 @@ separator in the middle was found and taken into account:
 
 The column separators are bounds for the following line detection. However, note that the "smearing" does stop at some point. Therefore, there are even different lines detected, when there is no column separator at all. For example the footer in the previous pictures will be put into two lines with both parameters. 
 
-## Check
+## Consistency checks
+
+There are some consistency checks during the page segmentation. If any of these checks finds an unusual value, then the computation is stopt and an error message is shown. The standard check tries to make sure that the image has a reasonable size and is binarized; moreover, there are checks to make sure that the scale is not too small and the maximum number of lines is not too high. These checks and values can be controlled by these parameters:
 
 ```
   -n, --nocheck         disable error checking on inputs
   --minscale MINSCALE   minimum scale permitted, default: 12.0
   --maxlines MAXLINES   maximum # lines permitted, default: 300
+```
+
+The default values should work fine for an usual A4 paper of an article or book page with 300 dpi. However, the might not work well for very small images or newspaper pages with a lot of text lines. In such cases it might be necessary to deactivate the check and/or adjust the values, e.g.
+
+```
+ocropus-gpageseg -n --minscale 5 --maxlines 900 tests/testpage.png
 ```
 
 ## Scale
