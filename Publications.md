@@ -43,7 +43,7 @@ Thesis supervisors: Thomas M Breuel, Andreas Dengel, Marcus Liwicki
 ### 2014
 
 * [OCR of historical printings of Latin texts: Problems, Prospects, Progress](http://www.springmann.net/papers/2014-04-07-DATeCH2014-springmann.pdf) (2014)  
-Uwe Springmann, Dietmar Najock, Hermann Morgenroth, Helmut Schmid, Annette Gotscharek, and Florian Fink
+Uwe Springmann, Dietmar Najock, Hermann Morgenroth, Helmut Schmid, Annette Gotscharek, Florian Fink
 
 ### 2013
 
