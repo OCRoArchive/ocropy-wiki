@@ -64,9 +64,9 @@ further discussion.
   --usegauss            use gaussian instead of uniform, default: False
 ```
 
-## Whitespace column separators
+## Column separators
 
-It is checked whether any whitespace column separators are present
+It is checked whether any _whitespace column separators_ are present
 (by default at most 3) which are important for determining the start and end
 of the different lines. For single column text there is no separators and for
 two-column text there is exactly one separator in the middle.
@@ -78,26 +78,8 @@ two-column text there is exactly one separator in the middle.
                         minimum column height (units=scale), default: 10
 ```
 
-For example
-```
-ocropus-gpageseg -d --maxcolseps 0 tests/testpage.png
-```
-will segment the page into lines without detecting any columns. This results in
-long lines which spread across different columns (see the
-[debug output](https://cloud.githubusercontent.com/assets/5199995/22626036/491ab17c-eba4-11e6-98f0-c4a4b7ac50a9.png)
-). However, by calling
-```
-ocropus-gpageseg -d --maxcolseps 1 tests/testpage.png
-```
-the lines are separated among the two columns, because the white space
-separator in the middle was found and taken into account (see the
-[debug output](https://cloud.githubusercontent.com/assets/5199995/22626037/4c1ff472-eba4-11e6-958b-b38e8ece17d1.png)
-).
 
-
-## Black column separators
-
-By default, the black column separators are not checked, but this can be
+By default, the _black column separators_ are not checked, but this can be
 changed by setting the `maxseps` parameter to a positive number:
 
 ```
@@ -106,6 +88,26 @@ changed by setting the `maxseps` parameter to a positive number:
                         default: 10
 ```
 
+### Example
+
+```
+ocropus-gpageseg -d --maxcolseps 0 tests/testpage.png
+```
+will segment the page into lines without detecting any columns. This results in
+long lines which spread across different columns:
+
+![debug output](https://cloud.githubusercontent.com/assets/5199995/22626036/491ab17c-eba4-11e6-98f0-c4a4b7ac50a9.png)
+
+However, by calling
+```
+ocropus-gpageseg -d --maxcolseps 1 tests/testpage.png
+```
+the lines are separated among the two columns, because the white space
+separator in the middle was found and taken into account:
+
+![debug output](https://cloud.githubusercontent.com/assets/5199995/22626037/4c1ff472-eba4-11e6-958b-b38e8ece17d1.png)
+
+The column separators are bounds for the following line detection. However, note that the "smearing" does stop at some point. Therefore, there are even different lines detected, when there is no column separator at all. For example the footer in the previous pictures will be put into two lines with both parameters. 
 
 ## Check
 
