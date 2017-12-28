@@ -74,3 +74,6 @@ Mohammad Reza Yousefi, Thomas M. Breuel
 
 * [The OCRopus open source OCR system](http://www.helsinki.fi/~mpsilfve/ocr_course/materials/2008-breuel-ocropus-open-source.pdf) (2008)
 Thomas M. Breuel
+
+* [Recent progress on the OCRopus OCR system](https://doi.org/10.1145/1577802.1577805) (2009)
+Thomas Breuel
