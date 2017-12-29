@@ -54,8 +54,8 @@ The following parameters influence the output further:
 
 There is a step which removes small components from the whole image just before outputing the individual lines. These small components are usually just some noise and should be considerable smaller than for example the period as a punctation mark or the point in the `i`:
 
-<img src="https://user-images.githubusercontent.com/5199995/34437728-2c4f2dda-eca1-11e7-8456-c3e10deddbf6.png" width=350px/> -- noise removal step -->
-<img src="https://user-images.githubusercontent.com/5199995/34437732-30c30bde-eca1-11e7-8793-9b6193b58366.png" width=350px/>
+<img src="https://user-images.githubusercontent.com/5199995/34437728-2c4f2dda-eca1-11e7-8456-c3e10deddbf6.png" width=300px/> -- noise removal -->
+<img src="https://user-images.githubusercontent.com/5199995/34437732-30c30bde-eca1-11e7-8793-9b6193b58366.png" width=300px/>
 
 In the noise removal step only components of size at most 8 are remove by default. This threshold can be adjusted by the parameter `--noise NOISE`. For example `--noise 30` will remove also components of size at most 30 (containing most `.` and points in `i` for the example) and `--noise 0` will deactivate the noise removal completely.
 
