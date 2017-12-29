@@ -39,12 +39,26 @@ starting from `010000`.
 Moreover, a `pseg.png` file is created, [OCRopus-File-Formats/Physical Layout](https://github.com/tmbdev/ocropy/wiki/OCRopus-File-Formats#physical-layout) for more details.
 
 The following parameters influence the output further:
+
+
 ```
-  --gray                output grayscale lines as well, default: False
+  --noise NOISE         noise threshold for removing small components from
+                        lines, default: 8
   -p PAD, --pad PAD     padding for extracted lines, default: 3
+  --gray                output grayscale lines as well, default: False
   -e EXPAND, --expand EXPAND
                         expand mask for grayscale extraction, default: 3
 ```
+
+### Noise removal
+
+There is a step which removes small components from the whole image just before outputing the individual lines. These small components are usually just some noise and should be considerable smaller than for example the period as a punctation mark or the point in the `i`:
+
+<img src="https://user-images.githubusercontent.com/5199995/34437728-2c4f2dda-eca1-11e7-8456-c3e10deddbf6.png" width=350px/> -- noise removal step -->
+<img src="https://user-images.githubusercontent.com/5199995/34437732-30c30bde-eca1-11e7-8793-9b6193b58366.png" width=350px/>
+
+In the noise removal step only components of size at most 8 are remove by default. This threshold can be adjusted by the parameter `--noise NOISE`. For example `--noise 30` will remove also components of size at most 30 (containing most `.` and points in `i` for the example) and `--noise 0` will deactivate the noise removal completely.
+
 
 ### Binarized and grayscale output
 
@@ -54,13 +68,18 @@ of all the lines are generated. You can also use grayscale images for training
 or prediction, see [FAQ/When can colorful, grayscale or black-and-white images used?](https://github.com/tmbdev/ocropy/wiki/FAQ#when-can-colorful-grayscale-or-black-and-white-images-used) for some
 further discussion.
 
+🚧 What does `--expand EXPAND` exactly? 🚧 
+
+### Padding
+
+The outputed line images have an additional white space around the actual text (on the top, left bottom and right). The amount of space is determined by the padding value `--pad PAD` which is set by default to `3` pixels. If you want more spacing around the actual text lines, then provide higher padding value. If you don't want any padding, then use `--pad 0`.
+
+
 ## Line parameters
 
 ```
   --threshold THRESHOLD
                         baseline threshold, default: 0.2
-  --noise NOISE         noise threshold for removing small components from
-                        lines, default: 8
   --usegauss            use gaussian instead of uniform, default: False
 ```
 
