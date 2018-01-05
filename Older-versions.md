@@ -15,6 +15,11 @@
 * [v0.8.1 classic-ocropy-0.1.1](https://github.com/tmbdev/ocropy/releases/tag/v0.8.1) released 2014-11-01
 * [v0.8.0 classic-ocropy-0.1](https://github.com/tmbdev/ocropy/releases/tag/v0.8.0) 2013-09-05
 * [v0.7](https://github.com/tmbdev/ocropy/releases/tag/v0.7) 2013-04-06 [a79c658](https://github.com/tmbdev/ocropy/commit/a79c6581171a63d5adffeaf8692d6b550b74bff5)
+    * a new text line recognizer based on recurrent neural networks (and does not require language modeling)
+    * models for both Latin script and Fraktur
+    * new tools for ground truth labeling
+    * Text line recognition error rates are much lower than with previous systems, in many cases beating commercial systems in benchmarks on standard databases. Training for new scripts has also been simplified greatly.
+    * Source: [message in the discussion group](https://groups.google.com/forum/#!msg/ocropus/Jpqz_Kc9M8g/y1uIZQTwfbQJ)
 
 See also [https://github.com/tmbdev/ocropy/releases](https://github.com/tmbdev/ocropy/releases).
 
@@ -22,11 +27,19 @@ See also [https://github.com/tmbdev/ocropy/releases](https://github.com/tmbdev/o
 In the old days there was a main 'ocropus' repository with references to 'ocropy' and other sub-repos. The versions were attached to the main repository, but we have now retro-perspectively added these version numbers also to the ocropy repository to corresponding commits of the same time.
 ### ocropy repository
 * [v0.6](https://github.com/tmbdev/ocropy/releases/tag/v0.6) 2012-08-23 [820f513](https://github.com/tmbdev/ocropy/tree/820f513f8b987a)
+    * Major changes relative to 0.5.x are much simpler installation, fewer dependencies, better character recognition rates, and easier training.  There is also a number of sample scripts illustrating recognition and training.
+    * Source: [message in the discussion group](https://groups.google.com/forum/#!msg/ocropus/L-BJyrPcTYM/784w6OSv3fMJ)
 * [v0.5.4](https://github.com/tmbdev/ocropy/releases/tag/v0.5.4) 2012-07-15 [092c5d0](https://github.com/tmbdev/ocropy/tree/092c5d081163)
 * [v0.5.3](https://github.com/tmbdev/ocropy/releases/tag/v0.5.3) 2012-07-15 [faec00d](https://github.com/tmbdev/ocropy/commit/faec00de3fb46984443dda641e6244d6881bd50f)
 * [v0.5.2](https://github.com/tmbdev/ocropy/releases/tag/v0.5.2) 2012-07-15 [107b198](https://github.com/tmbdev/ocropy/commit/107b1983324bb29a62348912c3fe471f42d0bbc1)
 * [v0.5.1](https://github.com/tmbdev/ocropy/releases/tag/v0.5.1) 2012-05-11 [81741ba](https://github.com/tmbdev/ocropy/commit/81741ba1231d157f49823cde6252fffdf6d18c29)
 * [v0.5](https://github.com/tmbdev/ocropy/releases/tag/v0.5) 2012-03-06 [92db6f5](https://github.com/tmbdev/ocropy/tree/92db6f51bbe6)
+   * OCRopus has been completely refactored and now consists of a set of Python modules, with some native code modules.
+   * Unicode and ligature support should be fully working now.
+   * Language modeling still uses finite state transducers, but all finite state transducer code has been refactored into ocrofst.
+   * There is a completely new recognizer that performs much better than the old recognizer and scales to millions of training samples.
+   * Databases for training/testing have been changed from SQLite format to HDF5 (using PyTables).
+   * Source: [message in the discussion group](https://groups.google.com/forum/#!topic/ocropus/S73OMtJdVmw/discussion)
 * [first commit in the ocropy repo](https://github.com/tmbdev/ocropy/commit/ec43558af20a) 2010-03-03
 
 ### ocropus repository
