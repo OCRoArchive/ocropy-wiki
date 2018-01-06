@@ -31,4 +31,4 @@ Download the models and copy them to one of:
  * Telugu model & training data: https://github.com/ChillarAnand/likitham
 
 ## Coptic
- * Coptic models: https://github.com/KELLIA/CopticOCR/tree/master
+ * Coptic models: https://github.com/KELLIA/CopticOCR
