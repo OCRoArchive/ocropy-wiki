@@ -28,6 +28,7 @@ There are also some articles on ocropy on the web:
 
 * [Extracting text from an image using Ocropus](http://www.danvk.org/2015/01/09/extracting-text-from-an-image-using-ocropus.html)
 * [Training an Ocropus OCR model](http://www.danvk.org/2015/01/11/training-an-ocropus-ocr-model.html)
+* [Homemade manuscript OCR (1): OCRopy](https://graal.hypotheses.org/786)
 * [How to train your own OCRopy models](http://cistern.cis.lmu.de/ocrocis/tutorial.pdf)
 * [CIS OCR Workshop (how to OCR historical documents, with examples from ABBYY Finereader, Tesseract, OCRopy)](http://www.cis.uni-muenchen.de/ocrworkshop/program.html), in particular [module 5](https://github.com/cisocrgroup/OCR-Workshop/blob/master/presentations/pdfs/m5-incunabula-practice.pdf) describes the full workflow with ocropus
 * [How to Digitize Texts with Open-Source Command-Line Optical Character Recognition (OCR) Software](http://hdw.artsci.wustl.edu/articles/154)
