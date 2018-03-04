@@ -42,6 +42,8 @@ Fotini Simistira, Adnan Ul-Hassan, Vassilis Papavassiliou, Basilis Gatos, Vassil
 Tushar Karayil, Adnan Ul-Hasan, Thomas M. Breuel
 * [A Sequence Learning Approach for Multiple Script Identification](https://www.researchgate.net/publication/280777013_A_Sequence_Learning_Approach_for_Multiple_Script_Identification) (2015)  
 Adnan Ul-Hasan, Muhammad Zeshan Afzal, Faisal Shfait,  Marcus Liwicki, Thomas M. Breuel
+* [Binarization-free OCR for historical documents using LSTM networks](https://av.dfki.de/publications/binarization-free-ocr-for-historical-documents-using-lstm-networks/) (2015)  
+Mohammad Yousefi, Ehsanollah Kabir, Thomas Breuel, Didier Stricker
 * [Statistical Language Modeling for Historical Documents using Weighted Finite-State Transducers and Long Short-Term Memory](https://kluedo.ub.uni-kl.de/frontdoor/index/index/year/2015/docId/4022) (2015)  
 Ph.D Thesis by Mayce Al Azawi  
 Thesis supervisors: Thomas M Breuel, Andreas Dengel, Marcus Liwicki
