@@ -1,5 +1,11 @@
 ## LSTM
 
+### 2018
+
+* [Improving OCR Accuracy on Early Printed Books by combining
+Pretraining, Voting, and Active Learning](https://arxiv.org/abs/1802.10038) (2018)  
+Christian Reul, Uwe Springmann, Christoph Wick, Frank Puppe
+
 ### 2017
 
 * [Transfer Learning for OCRopus Model Training on Early Printed Books](http://0277.ch/ojs/index.php/cdrs_0277/article/view/169/378) (2017)  
