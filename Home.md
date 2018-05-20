@@ -19,7 +19,7 @@ For a general overview you can look at some mind maps:
 
 The project repository [contains some IPython notebooks](https://github.com/tmbdev/ocropy/search?l=jupyter-notebook&q=&type=Code&utf8=%E2%9C%93). Note that most of them are outdated (in the folder `./OLD`).
 
-* [rnnlib vs ocropy](https://github.com/tmbdev/ocropy/blob/master/examples/rnnlib-vs-ocropy.ipynb)
+* [rnnlib vs ocropy](https://github.com/tmbdev/ocropy/blob/master/doc/rnnlib-vs-ocropy.ipynb)
 * [IPython notebook](https://github.com/tmbdev/ocropy/blob/master/OLD/ocropus-steps.ipynb) on using ocropy, partly outdated but still useful.
 
 ## On the Web
