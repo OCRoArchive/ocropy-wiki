@@ -2,7 +2,7 @@
 
 ### 2018
 
-* [Projet CNES-INALCO : Numériser des fiches de retour d’expériences sur le développement de lanceurs spatiaux.](http://grce.labri.fr/afihm-sifed/program.html) (2018)
+* [Projet CNES-INALCO : Numériser des fiches de retour d’expériences sur le développement de lanceurs spatiaux.](http://grce.labri.fr/afihm-sifed/program.html) (2018)\n
 Elvis Mboning , Nadège Lechevrel, Kurela Michal, Daniel Nouvel
 
 * [Improving OCR Accuracy on Early Printed Books by combining
