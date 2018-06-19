@@ -3,11 +3,12 @@
 ### 2018
 
 * [Projet CNES-INALCO : Numériser des fiches de retour d’expériences sur le développement de lanceurs spatiaux.](http://grce.labri.fr/afihm-sifed/program.html) (2018)
-
 Elvis Mboning , Nadège Lechevrel, Kurela Michal, Daniel Nouvel
+
 * [Improving OCR Accuracy on Early Printed Books by combining
 Pretraining, Voting, and Active Learning](https://arxiv.org/abs/1802.10038) (2018)  
 Christian Reul, Uwe Springmann, Christoph Wick, Frank Puppe
+
 * [Impact of Training LSTM-RNN with Fuzzy Ground Truth](www.dfki.de/~bukhari/data/papers/69_ICPRAM2018_FuzzyGT.pdf) (2018)  
 Martin Jenckel, Sourabh Sarvotham Parkala, Syed Saqib Bukhari, Andreas Dengel
 
