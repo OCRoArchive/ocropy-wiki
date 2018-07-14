@@ -68,6 +68,11 @@ Adnan Ul-Hasan, Saad Bin Ahmed, Sheikh Faisal Rashid, Faisal Shafait, Thomas M. 
 * [ICDAR 2013 LSTM Tutorial - Building Fast High-Performance Recognition Systems with Recurrent Neural Networks and LSTM](http://lstm.iupr.com/)  
 Thomas Breuel, Volkmar Frinken, Marcus Liwicki
 
+## Layout Analysis
+* [High Performance Layout Analysis of Medieval European Document
+Images](http://www.scitepress.org/Papers/2018/65746/65746.pdf) (2018)  
+Syed Saqib Bukhari, Ashutosh Gupta, Anil Kumar Tiwari, Andreas Dengel
+
 ## Binarization
 A paper describing the algorithm used in ['ocropus-nlbin'](https://github.com/tmbdev/ocropy/blob/master/ocropus-nlbin):  
 * [Robust Binarization of Stereo and Monocular Document Images Using Percentile Filter](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.588.7273&rep=rep1&type=pdf) (2013)  
