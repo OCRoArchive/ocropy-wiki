@@ -6,7 +6,7 @@
 Pretraining, Voting, and Active Learning](https://arxiv.org/abs/1802.10038) (2018)  
 Christian Reul, Uwe Springmann, Christoph Wick, Frank Puppe
 
-* [Impact of Training LSTM-RNN with Fuzzy Ground Truth](www.dfki.de/~bukhari/data/papers/69_ICPRAM2018_FuzzyGT.pdf) (2018)  
+* [Impact of Training LSTM-RNN with Fuzzy Ground Truth](https://www.dfki.de/~bukhari/data/papers/69_ICPRAM2018_FuzzyGT.pdf) (2018)  
 Martin Jenckel, Sourabh Sarvotham Parkala, Syed Saqib Bukhari, Andreas Dengel
 
 ### 2017
