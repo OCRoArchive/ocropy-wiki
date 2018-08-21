@@ -7,7 +7,8 @@ dynamically with a compiler with a different flag for Mac.
 ## How to install Ocropus on Windows?
 
 https://github.com/tmbdev/ocropy/issues/73 and 
-https://github.com/tmbdev/ocropy/issues/263#issuecomment-347008893
+https://github.com/tmbdev/ocropy/issues/263#issuecomment-347008893 and
+https://github.com/tmbdev/ocropy/issues/12#issuecomment-390774124
 
 ## How to install Ocropus on Fedora?
 
