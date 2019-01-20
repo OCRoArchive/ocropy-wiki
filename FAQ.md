@@ -95,3 +95,7 @@ Try to set `export MPLBACKEND="agg"`.
 ## How can the training been speed up? Is it possible to parallelize the trainig or to use GPU power for training?
 
 The training cannot be parallelized or otherwise easily speed up. However, a faster training is available with [CLSTM](https://github.com/tmbdev/clstm) which can be connected to ocropus. Moreover, some work on a GPU-based version of ocropy is available at https://github.com/tmbdev/ocropy2.
+
+## What is the preferred name of this project?
+
+The project was started as `OCRopus`, then it was mostly used in the lowercase form `ocropus` and now this repository is simply named `ocropy`. In the earlier days there used to be a high level repository (`OCRopus`) that included other subrepos and contained a top-level driver and build script. A subset of the tools implemented in Python is the content of this repository which is called `ocropy`. Nowadays, the names `OCRopus`, `ocropus`, and `ocropy` can be used interchangeable. See also https://github.com/tmbdev/ocropy/issues/97.
