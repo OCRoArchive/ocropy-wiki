@@ -92,7 +92,7 @@ See https://github.com/matplotlib/matplotlib/issues/5836
 
 Try to set `export MPLBACKEND="agg"`.
 
-## How can the training been speed up? Is it possible to parallelize the trainig or to use GPU power for training?
+## How can the training been speed up? Is it possible to parallelize the training or to use GPU power for training?
 
 The training cannot be parallelized or otherwise easily speed up. However, a faster training is available with [CLSTM](https://github.com/tmbdev/clstm) which can be connected to ocropus. Moreover, some work on a GPU-based version of ocropy is available at https://github.com/tmbdev/ocropy2.
 
