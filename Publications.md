@@ -1,5 +1,10 @@
 ## LSTM
 
+### 2019
+
+* [An OCR system for the Unified Northern Alphabet](https://www.aclweb.org/anthology/W19-0307) (2019)  
+Niko Partanen, Michael Rießler
+
 ### 2018
 
 * [Improving OCR Accuracy on Early Printed Books by combining
