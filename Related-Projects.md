@@ -1,6 +1,6 @@
 # Related Projects
 
-* [kraen](https://github.com/mittagessen/kraken) - uses PyTorch
+* [kraken](https://github.com/mittagessen/kraken) - uses PyTorch
 * [Calamari-OCR](https://github.com/Calamari-OCR/calamari) - uses TensorFlow
 * [ocropy2](https://github.com/tmbdev/ocropy2) - uses PyTorch
 * [ocropy3](https://github.com/NVlabs/ocropus3) - uses PyTorch
