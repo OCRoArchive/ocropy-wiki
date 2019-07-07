@@ -1,6 +1,6 @@
 # Related Projects
 
-* [kraken](https://github.com/mittagessen/kraken) (PyTorch >=1.0)
+* [kraken](https://github.com/mittagessen/kraken) (PyTorch >= 1.0)
 * [Calamari-OCR](https://github.com/Calamari-OCR/calamari) (TensorFlow)
 * [ocropy2](https://github.com/tmbdev/ocropy2) (PyTorch)
 * [ocropy3](https://github.com/NVlabs/ocropus3) (PyTorch)
