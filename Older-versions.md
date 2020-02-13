@@ -43,7 +43,7 @@ In the old days there was a main 'ocropus' repository with references to 'ocropy
 * [first commit in the ocropy repo](https://github.com/tmbdev/ocropy/commit/ec43558af20a) 2010-03-03
 
 ### ocropus repository
-* [v0.?](https://github.com/zuphilip/ocropus-from-searchcode) 2012?-??-??
+* [latest](https://github.com/zuphilip/ocropus-from-searchcode) available source code from the repo. Can be considered as v0.4.5.
 * [v0.4.4](https://github.com/michaelyin/ocropus-git/tree/ba6930627f3f) 2010-03-24
     * all recognition can now be carried out from Python
     * there are top-level commands for recognition and training written in Python
