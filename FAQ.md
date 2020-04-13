@@ -45,7 +45,7 @@ It is possible to use scans of two pages in the same image, which will then be h
 for i in *.tif; do echo $i; convert $i -crop 2x1+0+0@ +repage +adjoin [insert_output_folder_name_here]/output$i; done
 ```
 * ScanTailor: http://scantailor.org/
-* unpaper: https://github.com/Flameeyes/unpaper
+* unpaper: https://github.com/unpaper/unpaper
 
 
 ## Can ocropus be used for handwritten text recognition?
