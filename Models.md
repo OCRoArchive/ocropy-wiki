@@ -8,8 +8,8 @@ Download the models and copy them to one of:
 * `/usr/share/ocropus`
 
 ## Latin Scripts
- * English Default: http://www.tmbdev.net/en-default.pyrnn.gz (80 MB)
- * Fraktur: http://tmbdev.net/ocropy/fraktur.pyrnn.gz (42 MB)
+ * English Default: https://github.com/zuphilip/ocropy-models/raw/master/en-default.pyrnn.gz (80 MB)
+ * Fraktur: https://github.com/zuphilip/ocropy-models/raw/master/fraktur.pyrnn.gz (42 MB)
  * Fraktur: https://github.com/jze/ocropus-model_fraktur (including training data and a model for [CLSTM](https://github.com/tmbdev/clstm))
  * early 20th century antiqua including south-east European characters: https://github.com/jze/ocropus-model_oesterreich-ungarn (including training data)
  * (Old) French: https://github.com/zuphilip/ocropy-french-models (26 MB)
